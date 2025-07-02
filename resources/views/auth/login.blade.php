@@ -7,7 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #667eea 0%,rgb(231, 0, 96) 100%);
             min-height: 100vh;
         }
         .card {
@@ -16,7 +16,7 @@
             box-shadow: 0 10px 30px rgba(0,0,0,0.1);
         }
         .btn-primary {
-            background: linear-gradient(45deg, #667eea, #764ba2);
+            background: linear-gradient(45deg, #667eea,rgb(162, 113, 75));
             border: none;
         }
     </style>
